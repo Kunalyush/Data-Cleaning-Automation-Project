@@ -1,0 +1,11 @@
+CustomerID,Customer_Name,Age,Annual_Income_k$,Spending_Score
+101,Alice,25.0,50.0,70
+102,Bob,30.0,65.0,45
+103,Charlie,,80.0,60
+104,David,22.0,,85
+102,Bob,30.0,65.0,45
+105,Eve,29.0,45.0,50
+106,Frank,35.0,90.0,30
+107,Grace,,120.0,95
+108,Hannah,40.0,55.0,60
+108,Hannah,40.0,55.0,60
